@@ -45,7 +45,7 @@
     "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": "",
+    "google-analytics": "<META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\">",
     "witsec-mailform-to": "info@empowersupport.co.uk",
     "witsec-mailform-from": "info@empowersupport.co.uk",
     "witsec-mailform-from-name": "Empower Website",
